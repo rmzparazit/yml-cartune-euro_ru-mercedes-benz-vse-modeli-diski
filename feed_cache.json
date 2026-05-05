@@ -1,0 +1,2384 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da27d/": {
+        "fingerprint": "cf9f94b1cd60ee042721f4759d9af28e",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "4999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_997.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_998.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_999.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_000.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/39/0011_39_001.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Mercedes-Benz CLS 2011 W218 M276.952 155005218, неоригинальные, 1 шт, Made in Taiwan 8.5Jx19 ET45",
+            "sales_notes": "1 шт, 8.5Jx19 ET45, Made in Taiwan",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Неоригинальные диски Mercedes-Benz CLS 2011 W218 M276.952, 1 шт, Made in Taiwan, размер 8.5Jx19 ET45"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Контрактные диски Mercedes-Benz CLS 2011, сняты с авто, 1 шт, 8.5Jx19 ET45, Made in Taiwan"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диски на Mercedes-Benz CLS 2011 W218, неоригинал, 1 шт, 8.5Jx19 ET45, производство Тайвань"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Колесный диск Mercedes-Benz CLS 2011, 1 шт, 8.5Jx19 ET45, неоригинальный, Made in Taiwan"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диск для Mercedes-Benz CLS 2011, 1 шт, размер 8.5Jx19 ET45, неоригинал, Тайвань"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диск Mercedes-Benz CLS 2011 W218, 1 шт, 8.5Jx19 ET45, неоригинальный, Made in Taiwan"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер] - [Описание]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS 2011",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:44:36.376374"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0ebb53/": {
+        "fingerprint": "f74c7b777d3b23d64ee8ee09934c9c80",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 2003",
+            "brand": "Mercedes-Benz",
+            "price_raw": "9999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/00/0008_00_177.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/00/0008_00_178.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/00/0008_00_179.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/00/0008_00_180.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/00/0008_00_181.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски, без варок и ремонтов. 7J R16 ET46",
+            "sales_notes": "В наличии Москва, 9 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Оригинальные диски Mercedes-Benz S 2003 W220 M113.948, без варок и ремонтов. Размер 7J R16 ET46. Номер A2204010102. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Контрактные диски Mercedes-Benz S 2003 W220 M113.948. Оригинал, без дефектов. 7J R16 ET46. Артикул A2204010102. Доступны для заказа."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Диски Mercedes-Benz S 2003 (W220) с двигателем M113.948. Оригинальные, без ремонта. Параметры: 7J R16 ET46. Код A2204010102. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Оригинальные диски на Mercedes-Benz S 2003 W220. Состояние без варок и ремонтов. 7J R16 ET46. Номер A2204010102. Есть в наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Диски Mercedes-Benz S 2003 (M113.948) оригинальные. Без повреждений. Размер 7J R16 ET46. Артикул A2204010102. В наличии на складе."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003",
+                    "description": "Оригинальные диски Mercedes-Benz S 2003 W220. Без варок и ремонтов. 7J R16 ET46. Код A2204010102. В наличии в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz S 2003",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:45:07.212650"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da27c/": {
+        "fingerprint": "55d4f58a91dd2adaeaafa408e3b85bcb",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "14999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_985.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_986.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_987.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_988.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/38/0011_38_989.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLS",
+                "Кузов": "W218",
+                "Двигатель": "M276.952",
+                "Год": "2011",
+                "Номер по производителю": "155004218",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Неоригинальные диски 2 шт 9.5Jx19 Made in Taiwan",
+            "sales_notes": "2 шт, 9.5Jx19, вылет не указан",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Неоригинальные диски 2 шт 9.5Jx19 Made in Taiwan. Подходят для Mercedes-Benz CLS 2011 W218 M276.952"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Комплект из 2 дисков 9.5Jx19. Производство Тайвань. Для Mercedes-Benz CLS 2011"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диски неоригинальные 9.5Jx19. Сняты с Mercedes-Benz CLS 2011. 2 штуки"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Контрактные диски 9.5Jx19. Made in Taiwan. Для Mercedes-Benz CLS 2011 W218"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диски 2 шт 9.5Jx19. Неоригинал. Подходят на Mercedes-Benz CLS 2011"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Диски для Mercedes-Benz CLS 2011. Размер 9.5Jx19. Производство Тайвань. 2 штуки"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Неоригинальные диски [количество] шт [размер] Made in Taiwan. Подходят для [марка] [модель] [год] [кузов] [двигатель]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS (кузов W218, двс M276.952)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:45:26.008486"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca20/": {
+        "fingerprint": "93964819464f1a59f4759010f90a763d",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2006 W211",
+            "brand": "Mercedes-Benz",
+            "price_raw": "14999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_750.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_751.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/82/0010_82_752.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_121.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_122.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "OM642.920",
+                "Год": "2006",
+                "Номер по производителю": "211",
+                "Производитель": "Mercedes-Benz",
+                "Размер": "16x7.5 ET 42"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Mercedes-Benz E 2006 W211 OM642.920 211, 16x7.5 ET 42, б/у, из Японии",
+            "sales_notes": "16x7.5 ET 42, без варки и трещин",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Оригинальные диски Mercedes-Benz E 2006 W211, размер 16x7.5 ET 42. Б/у, без варки и трещин. Привезены из Японии. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Контрактные диски на Mercedes-Benz E 2006 W211. Размер 16x7.5 ET 42. Состояние отличное, без дефектов. Цена 14 999 руб."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Диски для Mercedes-Benz E 2006 W211, 16x7.5 ET 42. Не оригинал, но без варки и трещин. Привезены из Японии. Подходят на W211."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Комплект дисков Mercedes-Benz E 2006 W211. Размер 16x7.5 ET 42. Б/у, хорошее состояние. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Диски на Mercedes-Benz E 2006 W211, 16x7.5 ET 42. Без варки и трещин. Привезены из Японии. ID товара 144672."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Диски для Mercedes-Benz E 2006 W211, размер 16x7.5 ET 42. Состояние б/у, без повреждений. Цена 14 999 руб. Самовывоз из Видного."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Размер] [Состояние] [Происхождение]",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс OM642.920)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:45:51.258140"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20c0/": {
+        "fingerprint": "a1cc967430b93fc85bad1212dd7978e5",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 2007",
+            "brand": "Mercedes-Benz",
+            "price_raw": "16999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_415.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_416.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_417.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_418.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_419.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "S",
+                "Кузов": "W221",
+                "Двигатель": "M273.961",
+                "Год": "2007",
+                "Номер по производителю": "A2214011902",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без варок трещин и ремонтов. 8.5J R18 ET43",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 2007",
+                    "description": "Оригинальные диски Mercedes-Benz S 2007 W221 M273.961. Без варок трещин и ремонтов. Размер 8.5J R18 ET43. Артикул A2214011902."
+                },
+                {
+                    "title": "Диски S 2007 W221",
+                    "description": "Контрактные диски Mercedes-Benz S 2007 W221. Оригинал. Без дефектов. 8.5J R18 ET43. Номер A2214011902."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S W221",
+                    "description": "Оригинальные диски Mercedes-Benz S W221 M273.961. Состояние без варок трещин и ремонтов. 8.5J R18 ET43."
+                },
+                {
+                    "title": "Диски S 2007 W221 M273.961",
+                    "description": "Диски Mercedes-Benz S 2007 W221 M273.961. Оригинал. Без ремонтов. Размер 8.5J R18 ET43. Артикул A2214011902."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2007 W221",
+                    "description": "Оригинальные диски Mercedes-Benz S 2007 W221. Без варок трещин и ремонтов. 8.5J R18 ET43. Номер A2214011902."
+                },
+                {
+                    "title": "Диски S 2007 W221 M273.961 A2214011902",
+                    "description": "Контрактные диски Mercedes-Benz S 2007 W221 M273.961. Оригинал. Без дефектов. 8.5J R18 ET43."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель]. Без варок трещин и ремонтов. [Размер] [Вылет]. Артикул [Номер по производителю].",
+            "collection_description": "Контрактная Диски Mercedes-Benz S (кузов W221, двс M273.961)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:46:16.078322"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20bc/": {
+        "fingerprint": "3f9f0c411d8182e132bd3d9dd8ece385",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz Viano 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "19999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_434.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Неоригинальные диски R17x8J ET48, без сварки и трещин",
+            "sales_notes": "В наличии Москва, 19 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Неоригинальные диски R17x8J ET48, без сварки и трещин. Сняты с Mercedes-Benz Viano 2011 W639 M272.978"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Неоригинальные диски [R17x8J ET48] для [Mercedes-Benz Viano 2011 W639 M272.978], без сварки и трещин",
+            "collection_description": "Контрактная Диски Mercedes-Benz Viano 2011",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:46:29.594336"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfde9/": {
+        "fingerprint": "b52af82c4a7a3e8a15cb45cfc2b283a7",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz GLK 2008",
+            "brand": "Mercedes-Benz",
+            "price_raw": "19999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_223.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски R19, без дефектов, сняты с Mercedes-Benz GLK 2008",
+            "sales_notes": "Передние 7.5J R19 ET47, задние 8.5J R19 ET52",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2008",
+                    "description": "Оригинальные диски R19, сняты с Mercedes-Benz GLK 2008. Передние 7.5J R19 ET47, задние 8.5J R19 ET52. Без варок, трещин и ремонта."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип] [размер], сняты с [марка] [модель] [год]. [Характеристики]. Без [дефекты].",
+            "collection_description": "Контрактная Диски Mercedes-Benz GLK 2008",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:46:44.051708"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec97/": {
+        "fingerprint": "8ebfa78247a40c8d1a7ad73e58ece6a3",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2004",
+            "brand": "Mercedes-Benz",
+            "price_raw": "23999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_656.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_657.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_658.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_659.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_660.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "M272.972",
+                "Год": "2004",
+                "Номер по производителю": "A2194010702",
+                "Производитель": "Mercedes-Benz",
+                "Кросс-номера": "A2194010002",
+                "Размеры": "8.5Jx17 ET18 8.5Jx17 ET28"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Mercedes. Без сварки и трещин. Привезены из Японии",
+            "sales_notes": "Размеры: 8.5Jx17 ET18/ET28",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски Mercedes. Без сварки и трещин. Привезены из Японии. Размеры: 8.5Jx17 ET18/ET28. От W219 CLS."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Контрактные диски Mercedes-Benz E 2004 W211. Оригинал. Без дефектов. Размеры 8.5Jx17 ET18/ET28."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски Mercedes-Benz E 2004. Сняты с авто. Размеры 8.5Jx17 ET18/ET28. Привезены из Японии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Диски Mercedes-Benz E 2004 W211. Оригинал. Без сварки и трещин. Размеры 8.5Jx17 ET18/ET28."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски Mercedes. Для E 2004 W211. Размеры 8.5Jx17 ET18/ET28. Привезены из Японии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Контрактные диски Mercedes-Benz E 2004. Оригинал. Без дефектов. Размеры 8.5Jx17 ET18/ET28."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски Mercedes-Benz [Модель] [Год] [Кузов]. Без сварки и трещин. Привезены из Японии. Размеры: [Размеры].",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс M272.972)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:47:08.363174"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b0/": {
+        "fingerprint": "c934b135e0d39d183d1d9bd4fc65839b",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2007",
+            "brand": "Mercedes-Benz",
+            "price_raw": "24999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_473.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_474.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_475.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_476.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_477.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "OM642.920",
+                "Год": "2007",
+                "Номер по производителю": "A2114013602",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски, без варок и ремонтов. 8J R17 ET38",
+            "sales_notes": "В наличии Москва. 8J R17 ET38",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007 W211. Без варок и ремонтов. Размер 8J R17 ET38. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски Mercedes-Benz E 2007 W211 OM642.920. Оригинал, без дефектов. 8J R17 ET38. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Контрактные диски Mercedes-Benz E 2007. Номер A2114013602. Размер 8J R17 ET38. Подходят на W211."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007. Сняты с авто. Без варок и ремонтов. 8J R17 ET38."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски Mercedes-Benz E 2007 W211. Оригинал. Размер 8J R17 ET38. Контрактная запчасть. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007. Номер A2114013602. 8J R17 ET38. Без варок и ремонтов."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель]. Без варок и ремонтов. Размер [размер]. Номер [номер].",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс OM642.920)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:47:31.383918"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cc/": {
+        "fingerprint": "74c067efb5d5154f64d923f1b8941120",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz GLK 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "29999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_606.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_607.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_608.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_609.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_610.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "GLK",
+                "Кузов": "X204",
+                "Двигатель": "M272.948",
+                "Год": "2011",
+                "Номер по производителю": "A2044012102",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52",
+            "sales_notes": "В наличии Москва, 29 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Без варок трещин и ремонтов. Передние 7.5J R19 ET47 Задние 8.5J R19 ET52. Сняты с Mercedes-Benz GLK 2011."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер по производителю] Без варок трещин и ремонтов. Передние [размер] Задние [размер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz GLK (кузов X204, двс M272.948)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:47:58.958628"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec91/": {
+        "fingerprint": "9a722961134bf0e1acaf6e858dd6444b",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz Viano 2012",
+            "brand": "Mercedes-Benz",
+            "price_raw": "29999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_127.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_128.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_129.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_130.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_131.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "Viano",
+                "Кузов": "W639",
+                "Двигатель": "M272.978",
+                "Год": "2012",
+                "Номер по производителю": "A6394012402",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без варок трещин и других ремонтов. 7J R17 ET56",
+            "sales_notes": "В наличии в Москве",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz Viano 2012",
+                    "description": "Оригинальные диски Mercedes-Benz Viano 2012 W639 M272.978. Без варок трещин и других ремонтов. Размер 7J R17 ET56. Артикул A6394012402."
+                },
+                {
+                    "title": "Диски Viano 2012 W639",
+                    "description": "Контрактные диски Mercedes-Benz Viano 2012 года. Кузов W639, двигатель M272.978. Оригинальные, без дефектов. 7J R17 ET56."
+                },
+                {
+                    "title": "Диски Mercedes-Benz W639",
+                    "description": "Оригинальные диски для Mercedes-Benz Viano W639. 2012 год, M272.978. Состояние без варок и трещин. Размер 7J R17 ET56."
+                },
+                {
+                    "title": "Диски Viano 2012 M272.978",
+                    "description": "Диски Mercedes-Benz Viano 2012 с двигателем M272.978. Оригинал, без ремонтов. 7J R17 ET56. Артикул A6394012402."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A6394012402",
+                    "description": "Оригинальные диски Mercedes-Benz с номером A6394012402. Для Viano 2012 W639 M272.978. Без варок и трещин. 7J R17 ET56."
+                },
+                {
+                    "title": "Диски Viano 2012 7J R17",
+                    "description": "Оригинальные диски Mercedes-Benz Viano 2012. Размер 7J R17 ET56. Без дефектов. Кузов W639, двигатель M272.978."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель]. Без варок трещин и других ремонтов. [Размер] [Артикул]",
+            "collection_description": "Контрактная Диски Mercedes-Benz Viano (кузов W639, двс M272.978)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:48:21.650942"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e204a/": {
+        "fingerprint": "e7e9c37e04dfcc1a2c97cb7e812ce0f0",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 2003 W220",
+            "brand": "Mercedes-Benz",
+            "price_raw": "29999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_729.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_730.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_731.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_732.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_733.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "S",
+                "Кузов": "W220",
+                "Двигатель": "M113.960",
+                "Год": "2003",
+                "Номер по производителю": "A2214015402",
+                "Производитель": "Mercedes-Benz",
+                "Размер": "8.5J R18 ET 43"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без ремонтов и трещин. 8.5J R18 ET 43",
+            "sales_notes": "29 999₽, в наличии в Москве",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Оригинальные диски Mercedes-Benz S 2003 W220. Без ремонтов и трещин. Размер 8.5J R18 ET 43. Номер A2214015402. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Контрактные диски Mercedes-Benz S 2003 W220. Состояние без ремонтов и трещин. 8.5J R18 ET 43. Артикул A2214015402."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Оригинальные диски на Mercedes-Benz S 2003 W220. Размер 8.5J R18 ET 43. Номер A2214015402. Без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Диски Mercedes-Benz S 2003 W220 M113.960. Оригинал, без ремонтов. 8.5J R18 ET 43. Артикул A2214015402."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Оригинальные диски S 2003 W220. Без трещин и ремонтов. 8.5J R18 ET 43. Номер A2214015402."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2003 W220",
+                    "description": "Контрактные диски Mercedes-Benz S 2003. Размер 8.5J R18 ET 43. Артикул A2214015402. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов]. Без ремонтов и трещин. [Размер] [Вылет]. Номер [Артикул].",
+            "collection_description": "Контрактная Диски Mercedes-Benz S (кузов W220, двс M113.960)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:48:45.282446"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20ca/": {
+        "fingerprint": "92c35eb6b9f4c5b03c5a3a08a710396a",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz Viano 2010",
+            "brand": "Mercedes-Benz",
+            "price_raw": "29999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_077.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_078.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_079.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_080.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_081.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски Viano",
+            "category_usp": "",
+            "description_usp": "Диски Sportechnic 7.5J R17 ET47, без сварки и трещин, сняты с Mercedes-Benz Viano 2010",
+            "sales_notes": "29 999₽, в наличии Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Диски Viano",
+                "Mercedes-Benz",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz Viano 2010",
+                    "description": "Оригинальные диски Sportechnic 7.5J R17 ET47, снятые с Mercedes-Benz Viano 2010. Без сварки, трещин и ремонта. Имеются следы краски."
+                },
+                {
+                    "title": "Диски Viano 2010 W639",
+                    "description": "Контрактные диски для Mercedes-Benz Viano 2010 (W639). Размер 7.5J R17 ET47. Состояние: без дефектов, но с загрязнениями."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano W639",
+                    "description": "Диски от Mercedes-Benz Viano 2010 года, кузов W639. Размер 7.5J R17 ET47. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски Viano 2010 W639 M272",
+                    "description": "Диски Sportechnic для Viano 2010 с двигателем M272.978. Размер 7.5J R17 ET47. Без ремонта."
+                },
+                {
+                    "title": "Диски Viano 2010 W639 M272.978",
+                    "description": "Комплект дисков 7.5J R17 ET47 от Mercedes-Benz Viano 2010. Без сварки и трещин. На дисках разлита краска."
+                },
+                {
+                    "title": "Диски Viano 2010 W639 M272.978 A639",
+                    "description": "Диски с номера A639, сняты с Mercedes-Benz Viano 2010. Размер 7.5J R17 ET47. Без дефектов."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz Viano 2010",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:49:07.049906"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dee6d/": {
+        "fingerprint": "861b30561422ddeac6026f1a7e4610a0",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2013",
+            "brand": "Mercedes-Benz",
+            "price_raw": "32999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_628.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_629.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_630.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_631.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_632.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLS",
+                "Кузов": "W218",
+                "Двигатель": "M276.952",
+                "Год": "2013",
+                "Номер по производителю": "A2184010102",
+                "Производитель": "Mercedes-Benz",
+                "Размер": "8.5J 18H2 ET34.5"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без сварки и трещин. 8.5J 18H2 ET34.5",
+            "sales_notes": "В наличии в Москве. Цена 32 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Оригинальные диски Mercedes-Benz CLS 2013, кузов W218, двигатель M276.952. Размер 8.5J 18H2 ET34.5. Без сварки и трещин. Номер A2184010102."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Контрактные диски Mercedes-Benz CLS 2013 года. Подходят для W218 с двигателем M276.952. Параметры: 8.5J 18H2 ET34.5. Оригинальный номер A2184010102."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Оригинальные диски с Mercedes-Benz CLS 2013. Кузов W218, двигатель M276.952. Размер 8.5J 18H2 ET34.5. Состояние без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Диски Mercedes-Benz CLS 2013, снятые с авто. Оригинал, номер A2184010102. Размер 8.5J 18H2 ET34.5. Без сварки и трещин."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Оригинальные диски Mercedes-Benz CLS 2013 (W218, M276.952). Параметры: 8.5J 18H2 ET34.5. Номер A2184010102. В хорошем состоянии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Контрактные диски Mercedes-Benz CLS 2013. Кузов W218, двигатель M276.952. Размер 8.5J 18H2 ET34.5. Оригинальный номер A2184010102."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип_детали] [марка] [модель] [год] кузов [кузов] двигатель [двигатель] размер [размер] номер [номер] без сварки и трещин",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS (кузов W218, двс M276.952)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:49:33.803525"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e21c8/": {
+        "fingerprint": "f64c488bce2fce99079fc7235950c65a",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz ML 2008 W164",
+            "brand": "Mercedes-Benz",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_021.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_022.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_023.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_024.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/92/0010_92_025.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "ML",
+                "Кузов": "W164",
+                "Двигатель": "M272.967",
+                "Год": "2008",
+                "Номер по производителю": "A1644011102",
+                "Производитель": "Mercedes-Benz",
+                "Размеры": "8.5J ET56 R20"
+            },
+            "available": true,
+            "category_name": "Диски M-Class",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин",
+            "sales_notes": "34 999₽, в наличии Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски M-Class"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz ML 2008 W164",
+                    "description": "Оригинальные диски W164 8.5J ET56 R20 без сварки и трещин. Есть потертости. Контрактная запчасть с авто 2008 года."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер по производителю]",
+            "collection_description": "Контрактная Диски Mercedes-Benz ML (кузов W164, двс M272.967)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:49:56.558685"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0edbfb/": {
+        "fingerprint": "63de40b4291980ca4b02a6ffe992320c",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2005 W211",
+            "brand": "Mercedes-Benz",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/88/0008_88_291.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/88/0008_88_292.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/88/0008_88_293.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/88/0008_88_294.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/88/0008_88_295.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "M112.913",
+                "Год": "2005",
+                "Номер по производителю": "0346009",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Контрактные диски BBS ck004 9.5x20 ET36 8.5x20 ET38. Есть трещина на переднем диске",
+            "sales_notes": "В наличии Москва. Есть трещина на переднем диске",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Контрактные диски BBS ck004 9.5x20 ET36 8.5x20 ET38. Есть трещина на переднем диске. В наличии Москва."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Оригинальные диски Mercedes-Benz E 2005 W211 M112.913 0346009. Сняты с автомобиля."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Комплект дисков BBS ck004 9.5x20 ET36 8.5x20 ET38. Передний диск с трещиной."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Диски от Mercedes-Benz E 2005 W211. Размеры: 9.5x20 ET36 и 8.5x20 ET38."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Контрактные диски с трещиной на переднем. Подходят для Mercedes-Benz E W211."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2005 W211",
+                    "description": "Диски BBS ck004 для Mercedes-Benz E 2005. В наличии в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер] [Размеры] [Состояние]",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс M112.913)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:50:18.222402"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20be/": {
+        "fingerprint": "4411e371c8cd265f701da50d4b8611c7",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz Viano 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_337.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_338.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_339.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_340.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_341.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски 7.5J R18 ET56 без дефектов",
+            "sales_notes": "Сняты с Mercedes-Benz Viano 2011",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Оригинальные диски Mercedes-Benz Viano 2011, снятые с автомобиля. Размер 7.5J R18 ET56, без варок, трещин и ремонтов. Номер A6394012602."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Контрактные диски Mercedes-Benz Viano 2011 W639 M272.978. Оригинал, состояние отличное. Подходят для замены."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Диски Viano 2011 года, кузов W639, двигатель M272.978. Оригинальные, без дефектов. Размер 7.5J R18 ET56."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Оригинальные диски Mercedes-Benz Viano 2011. Сняты с авто, проверены. Размер 7.5J R18 ET56, артикул A6394012602."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Диски Mercedes-Benz Viano 2011 W639. Оригинальные, без ремонтов. Размер 7.5J R18 ET56. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz Viano 2011",
+                    "description": "Оригинальные диски Mercedes-Benz Viano 2011. Состояние: без трещин и варок. Размер 7.5J R18 ET56. Номер A6394012602."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов] [Двигатель] размер [Размер] без дефектов",
+            "collection_description": "Контрактная Диски Mercedes-Benz Viano 2011",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:50:40.939133"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e37cc/": {
+        "fingerprint": "345410040c8b91502786f1a4b7ae3217",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "46999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_278.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_279.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_280.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_281.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_282.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLS",
+                "Кузов": "W218",
+                "Двигатель": "M276.952",
+                "Год": "2011",
+                "Номер по производителю": "A2184011602",
+                "Кросс-номера": "A2184011702",
+                "ID товара": "116940"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2011",
+                    "description": "Оригинальные 19 разноширокие диски AMG 5 Spoke CLS W218 X218. Без сварки и трещин. 8.5J ET34.5 9.5J ET48 5x112. Сняты с автомобиля Mercedes-Benz CLS 2011."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [размер] [тип] диски [модель] [кузов] [двигатель] [год]. [Состояние]. [Параметры]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS (кузов W218, двс M276.952)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:51:06.745270"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dfdde/": {
+        "fingerprint": "e44356bd25cb0bff74f25713ad4a75bb",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz A 2013 W176",
+            "brand": "Mercedes-Benz",
+            "price_raw": "48999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_935.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_936.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_937.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_938.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_939.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "A",
+                "Кузов": "W176",
+                "Двигатель": "M270.910",
+                "Год": "2013",
+                "Номер по производителю": "A1764010302",
+                "Производитель": "Mercedes-Benz",
+                "ID товара": "131806"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AMG, без сварки и трещин, 7.5Jx18 ЕТ52",
+            "sales_notes": "В наличии Москва, 48 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски AMG, снятые с Mercedes-Benz A 2013. Без сварки и трещин. Размер 7.5Jx18 ЕТ52. Номер A1764010302. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Контрактные диски AMG для Mercedes-Benz A W176. Состояние отличное, без дефектов. Параметры: 7.5Jx18, вылет 52. Подходят на M270.910."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски AMG 7.5Jx18 ET52. Сняты с Mercedes-Benz A 2013 года. Без сварки и трещин. Номер A1764010302. Доступны для заказа."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Диски AMG для Mercedes-Benz A W176. Размер 7.5Jx18, вылет 52. Состояние без сварки и трещин. Оригинальный номер A1764010302. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски AMG с Mercedes-Benz A 2013. Параметры: 7.5Jx18 ET52. Без сварки и трещин. Номер A1764010302. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Контрактные диски AMG 7.5Jx18 ET52. Сняты с Mercedes-Benz A 2013 W176. Без сварки и трещин. Оригинальный номер A1764010302. В наличии."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски AMG для [Марка] [Модель] [Год] [Кузов]. Без сварки и трещин. Размер [Размер] [Вылет]. Номер [Номер]. В наличии [Город].",
+            "collection_description": "Контрактная Диски Mercedes-Benz A (кузов W176, двс M270.910)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:51:33.717879"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ac/": {
+        "fingerprint": "1fe172832286c37dde52c60a299281a6",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz C 2002 W203",
+            "brand": "Mercedes-Benz",
+            "price_raw": "49999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_402.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_403.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_404.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_405.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_406.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "C",
+                "Кузов": "W203",
+                "Двигатель": "M112.961",
+                "Год": "2002",
+                "Номер по производителю": "A1704012102",
+                "Кросс-номера": "A1704012002",
+                "ID товара": "154540"
+            },
+            "available": true,
+            "category_name": "Диски C-Class",
+            "category_usp": "",
+            "description_usp": "Разноширокие диски AMG. Перед 7.5J ET37 R17, задние 8.5J ET34 R17",
+            "sales_notes": "Без варок трещин и ремонтов",
+            "custom_labels": [
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски C-Class",
+                "Б/У"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Оригинальные диски AMG для Mercedes-Benz C 2002 W203. Разноширокие: перед 7.5J ET37 R17, задние 8.5J ET34 R17. Без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Контрактные диски AMG с Mercedes-Benz C 2002 W203. Перед 7.5J ET37, зад 8.5J ET34 R17. Состояние отличное."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Комплект дисков AMG R17 для Mercedes-Benz C W203. Передние 7.5J ET37, задние 8.5J ET34. Без трещин и ремонтов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Диски AMG разноширокие для Mercedes-Benz C 2002 W203. Размеры: перед 7.5J ET37, зад 8.5J ET34 R17. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Оригинальные диски Mercedes-Benz C W203 AMG. Перед 7.5J ET37, зад 8.5J ET34 R17. Без варок и повреждений."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2002 W203",
+                    "description": "Диски AMG R17 для Mercedes-Benz C 2002 W203. Разноширокие: 7.5J ET37 перед, 8.5J ET34 зад. Отличное состояние."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - [Описание]",
+            "collection_description": "Контрактная Диски Mercedes-Benz C (кузов W203, двс M112.961)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:51:58.474832"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e4335/": {
+        "fingerprint": "df74ab28b2af0d80797e16bc7b9866f5",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz A 2013 W176",
+            "brand": "Mercedes-Benz",
+            "price_raw": "51999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_565.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_566.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_567.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_568.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_569.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AMG, без сварки и трещин. 7.5Jx18 ЕТ52",
+            "sales_notes": "В наличии в Москве. Цена 51 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски AMG, снятые с Mercedes-Benz A 2013. Без сварки и трещин. Размер 7.5Jx18 ЕТ52. Номер A1764010302."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Контрактные диски Mercedes-Benz A 2013 W176 M270.910. Оригинал AMG. Проверены, без дефектов. Подходят для A-Class."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Диски с разборки Mercedes-Benz A 2013. Оригинальные AMG. Размер 7.5Jx18 ET52. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски Mercedes-Benz A 2013 W176. AMG. Без сварки и трещин. Артикул A1764010302."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Диски Mercedes-Benz A 2013, оригинал. Сняты с авто. Состояние отличное. 7.5Jx18 ET52."
+                },
+                {
+                    "title": "Диски Mercedes-Benz A 2013 W176",
+                    "description": "Оригинальные диски AMG для Mercedes-Benz A 2013. Размер 7.5Jx18 ET52. Без сварки и трещин."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [тип_запчасти] [марка] [модель] [год] [кузов] [двигатель] [номер_производителя] [состояние] [размер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz A 2013 W176",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:52:21.492904"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e21c7/": {
+        "fingerprint": "aa728c19a0bb1cbc4cb06562bec68f1c",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLA 2013",
+            "brand": "Mercedes-Benz",
+            "price_raw": "52999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_478.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_479.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_480.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_481.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_482.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLA",
+                "Кузов": "W117",
+                "Двигатель": "M270.910",
+                "Год": "2013",
+                "Номер по производителю": "A1764010302",
+                "Производитель": "Mercedes-Benz",
+                "Размер": "7.5Jx18 ET52"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AMG, без сварки и трещин, 7.5Jx18 ET52",
+            "sales_notes": "Сняты с Mercedes-Benz CLA 2013, арт. A1764010302",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Оригинальные диски AMG, сняты с Mercedes-Benz CLA 2013. Без сварки и трещин. Размер 7.5Jx18 ET52. Артикул A1764010302."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Контрактные диски Mercedes-Benz CLA 2013, кузов W117, двигатель M270.910. Состояние отличное, без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Оригинальные диски AMG для Mercedes-Benz CLA 2013. Размер 7.5Jx18 ET52. Проверены, без сварки и трещин."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Диски с Mercedes-Benz CLA 2013 (W117). Оригинал AMG. Артикул A1764010302. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Комплект дисков Mercedes-Benz CLA 2013. Размер 7.5Jx18 ET52. Без повреждений. Подходят для W117."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLA 2013",
+                    "description": "Оригинальные диски AMG, сняты с авто. Mercedes-Benz CLA 2013, кузов W117. Артикул A1764010302."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] - оригинал, размер [размер], артикул [артикул], состояние [состояние]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLA (кузов W117, двс M270.910)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:52:49.244264"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c4a/": {
+        "fingerprint": "65e3815e01ca889935c42d487734d04c",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLK 2006",
+            "brand": "Mercedes-Benz",
+            "price_raw": "52999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_900.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_901.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_902.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_903.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/02/0011_02_904.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLK",
+                "Кузов": "W209",
+                "Двигатель": "M271.940",
+                "Год": "2006",
+                "Номер по производителю": "A1714011602",
+                "Производитель": "Mercedes-Benz",
+                "ID товара": "127818"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без варок и трещин. 7.5J R18 ET37 8.5J R18 ET30",
+            "sales_notes": "В наличии Москва. 52 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Оригинальные диски Mercedes-Benz CLK 2006 W209. Без варок и трещин. Размер 7.5J R18 ET37 и 8.5J R18 ET30. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Контрактные диски с Mercedes-Benz CLK 2006. Оригинал, без дефектов. Параметры: 7.5J R18 ET37, 8.5J R18 ET30. Подходят для W209."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Оригинальные диски от Mercedes-Benz CLK 2006 года. Состояние отличное, без варок и трещин. Размеры: 7.5J R18 ET37, 8.5J R18 ET30."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Диски с Mercedes-Benz CLK 2006 W209. Оригинальные, без повреждений. Характеристики: 7.5J R18 ET37, 8.5J R18 ET30. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Оригинальные диски Mercedes-Benz CLK 2006. Без варок и трещин. Размер: 7.5J R18 ET37 и 8.5J R18 ET30. Склад в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2006",
+                    "description": "Контрактные диски Mercedes-Benz CLK 2006 W209. Оригинал, без дефектов. Параметры: 7.5J R18 ET37, 8.5J R18 ET30. Доступны."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год]. [Состояние]. [Размеры]. В наличии [город]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLK (кузов W209, двс M271.940)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:53:15.580696"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e20cd/": {
+        "fingerprint": "6595300389006ebab85b807ca35c3dd9",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 2001",
+            "brand": "Mercedes-Benz",
+            "price_raw": "54999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_397.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_398.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_399.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_400.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/01/0011_01_401.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "S",
+                "Кузов": "W220",
+                "Двигатель": "M113.941",
+                "Год": "2001",
+                "Номер по производителю": "0145028",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные разноширокие диски Lorinser. Без варок, трещин и ремонтов. Задние 10J R20 ET38, передние 9J R20 ET38",
+            "sales_notes": "Сняты с Mercedes-Benz S 2001 W220 M113.941",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Оригинальные разноширокие диски Lorinser. Без варок, трещин и ремонтов. Задние 10J R20 ET38, передние 9J R20 ET38. Сняты с Mercedes-Benz S 2001 W220 M113.941."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Контрактные диски Lorinser для Mercedes-Benz S 2001. Размеры: задние 10J R20 ET38, передние 9J R20 ET38. Состояние без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Оригинальные диски Lorinser, снятые с Mercedes-Benz S 2001. Разноширокие, без ремонтов. Задние 10J R20 ET38, передние 9J R20 ET38."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Диски Lorinser для Mercedes-Benz S 2001. Размеры: задние 10J R20 ET38, передние 9J R20 ET38. Без трещин и варок."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Оригинальные разноширокие диски Lorinser. Подходят на Mercedes-Benz S 2001. Задние 10J R20 ET38, передние 9J R20 ET38. Без ремонтов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 2001",
+                    "description": "Контрактные диски Lorinser. Сняты с Mercedes-Benz S 2001. Размеры: задние 10J R20 ET38, передние 9J R20 ET38. Состояние отличное."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "[Бренд] [Модель] [Год] [Кузов] [Двигатель] - [Описание]",
+            "collection_description": "Контрактная Диски Mercedes-Benz S (кузов W220, двс M113.941)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:53:37.594653"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec8d/": {
+        "fingerprint": "f67c66a09f5e2574a279319a0f616a84",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 1999 W220",
+            "brand": "Mercedes-Benz",
+            "price_raw": "54999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_044.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_045.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_046.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_047.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_048.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "S",
+                "Кузов": "W220",
+                "Двигатель": "M113.986",
+                "Год": "1999",
+                "Номер по производителю": "A2214013102",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски без варок трещин и ремонтов. 9.5J R20 ET38 8.5J R20 ET35",
+            "sales_notes": "В наличии Москва, 54 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Оригинальные диски Mercedes-Benz S 1999 W220. Без варок, трещин и ремонтов. Размеры: 9.5J R20 ET38 и 8.5J R20 ET35. Номера: 2214013202, 2214013102."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Контрактные диски с Mercedes-Benz S 1999 W220. Состояние отличное, без дефектов. Комплект: 9.5J R20 ET38 и 8.5J R20 ET35."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Диски для Mercedes-Benz S 1999 W220. Оригинальные номера A2214013102 и A2214013202. Размеры: 9.5J R20 ET38, 8.5J R20 ET35."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Б/у диски Mercedes-Benz S 1999 W220. Проверены, без варок и трещин. Размеры: 9.5J R20 ET38, 8.5J R20 ET35."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Диски от Mercedes-Benz S 1999 W220. В хорошем состоянии. Размеры: 9.5J R20 ET38 и 8.5J R20 ET35. Номера: 2214013202, 2214013102."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1999 W220",
+                    "description": "Оригинальные диски Mercedes-Benz S 1999 W220. Без ремонтов. Размеры: 9.5J R20 ET38, 8.5J R20 ET35. Номера: A2214013102, A2214013202."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - без варок трещин и ремонтов. [Размеры] [Номера]",
+            "collection_description": "Контрактная Диски Mercedes-Benz S (кузов W220, двс M113.986)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:54:03.910270"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0de898/": {
+        "fingerprint": "fcbc7b885e7f0c7231a2bf9b5946ce24",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLK 2002",
+            "brand": "Mercedes-Benz",
+            "price_raw": "54999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_107.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_108.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_109.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_110.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/84/0010_84_111.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Carlsson CR 1/11, 8.5Jx19 ET40, из Японии, без сварки и трещин",
+            "sales_notes": "В наличии Москва, цена 54 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Оригинальные диски Carlsson CR 1/11, размер 8.5Jx19 ET40, привезены из Японии, без сварки и трещин"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Контрактные диски с Mercedes-Benz CLK 2002 W209, двигатель M112.912, номер 36190452"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Оригинальные диски Mercedes-Benz, модель CLK, кузов W209, 2002 год, производитель Mercedes-Benz"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Диски Carlsson CR 1/11, 8.5Jx19 ET40, без дефектов, в наличии на складе Москва"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Оригинальные диски из Японии, подходят для Mercedes-Benz CLK W209, цена 54 999₽"
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLK 2002",
+                    "description": "Диски с автомобиля Mercedes-Benz CLK 2002, кузов W209, двигатель M112.912, артикул 36190452"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер] [Производитель] [Размер] [Состояние] [Цена]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLK 2002",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:54:26.285135"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca24/": {
+        "fingerprint": "201e14827974529f1fc5a090fb92ffa0",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2007",
+            "brand": "Mercedes-Benz",
+            "price_raw": "59999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_908.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_909.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_910.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_911.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_912.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "M273.960",
+                "Год": "2007",
+                "Номер по производителю": "A2114016702",
+                "Кросс-номера": "A2114016602"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок, трещин и ремонтов. Притертости. 8.5J R18 ET38 9J R18 ET39",
+            "sales_notes": "8.5J R18 ET38 9J R18 ET39",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007 W211. Сняты с автомобиля. Без варок, трещин и ремонтов. Размеры: 8.5J R18 ET38, 9J R18 ET39. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Контрактные диски Mercedes-Benz E 2007. Оригинал. Притертости, но без дефектов. Подходят для W211. Артикул A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски с Mercedes-Benz E 2007 года. Оригинальные, без ремонта. Размеры: 8.5J R18 ET38 и 9J R18 ET39. Кросс-номер A2114016602."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007 W211. Состояние: без трещин и варок. Есть притертости. Размеры: 8.5J R18 ET38, 9J R18 ET39."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски Mercedes-Benz E 2007, оригинал. Сняты с авто. Без ремонтов. Размеры: 8.5J R18 ET38, 9J R18 ET39. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007. Контрактные. Без варок и трещин. Притертости. Размеры: 8.5J R18 ET38, 9J R18 ET39."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год]. Сняты с автомобиля. Без [дефекты]. [Размеры]. Номер [артикул].",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс M273.960)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:54:53.912777"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0def53/": {
+        "fingerprint": "0eacb48e1a2af5723e838fe31cc8e8d4",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2006 W211",
+            "brand": "Mercedes-Benz",
+            "price_raw": "66999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_172.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_173.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_174.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_175.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_176.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "M272.943",
+                "Год": "2006",
+                "Номер по производителю": "A2114016702",
+                "Производитель": "Mercedes-Benz",
+                "Размеры": "8.5J R18 ET38, 9J R18 ET39"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок и трещин. Размеры: 8.5J R18 ET38, 9J R18 ET39",
+            "sales_notes": "В наличии в Москве. Цена за комплект",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Оригинальные диски Mercedes-Benz E 2006 W211. Сняты с автомобиля. Без варок и трещин. Размеры: 8.5J R18 ET38, 9J R18 ET39. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Контрактные диски Mercedes-Benz E 2006 W211. Состояние: без дефектов. Размеры: 8.5J R18 ET38, 9J R18 ET39. Артикул A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Оригинальные диски Mercedes-Benz E 2006 W211. В наличии. Размеры: 8.5J R18 ET38, 9J R18 ET39. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Диски Mercedes-Benz E 2006 W211. Оригинал. Без варок и трещин. Размеры: 8.5J R18 ET38, 9J R18 ET39. Артикул A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Оригинальные диски Mercedes-Benz E 2006 W211. Сняты с авто. Размеры: 8.5J R18 ET38, 9J R18 ET39. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2006 W211",
+                    "description": "Контрактные диски Mercedes-Benz E 2006 W211. Без дефектов. Размеры: 8.5J R18 ET38, 9J R18 ET39. Артикул A2114016702."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс M272.943)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:55:19.549227"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca30/": {
+        "fingerprint": "7ebe4c96115e7a1578b75eb01c2662f0",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2007",
+            "brand": "Mercedes-Benz",
+            "price_raw": "69999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/86/0010_86_353.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "E",
+                "Кузов": "W211",
+                "Двигатель": "M273.960",
+                "Год": "2007",
+                "Номер по производителю": "A2114016702",
+                "Кросс-номера": "A2114016602"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок, трещин и ремонта. Дефекты в виде притертостей. 8.5J R18 ET38 9J R18 ET39",
+            "sales_notes": "В наличии Москва. 69 999₽",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007 W211. Без варок и трещин. Размер 8.5J R18 ET38 и 9J R18 ET39. Контрактные, сняты с авто."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Комплект дисков Mercedes-Benz E 2007. Оригинал, без ремонта. Притертости. Подходят для W211. Номер A2114016702."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски Mercedes-Benz E 2007 года. Контрактные, состояние хорошее. Размеры: 8.5Jx18 ET38 и 9Jx18 ET39. В наличии Москва."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Оригинальные диски Mercedes-Benz E 2007 W211. Без дефектов сварки. Притертости. Кросс-номер A2114016602. Цена 69 999₽."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Диски Mercedes-Benz E 2007. Сняты с авто. Оригинал. Размер 8.5J R18 ET38 и 9J R18 ET39. Номер A2114016702. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2007",
+                    "description": "Комплект дисков Mercedes-Benz E 2007. Контрактные, без трещин. Притертости. Подходят на W211. Размеры 8.5Jx18 ET38 и 9Jx18 ET39."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год] [Кузов]. Без варок, трещин и ремонта. Дефекты в виде притертостей. Размеры [размеры]. Номер [номер]. Кросс-номера [кросс-номера].",
+            "collection_description": "Контрактная Диски Mercedes-Benz E (кузов W211, двс M273.960)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:55:34.103935"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2f/": {
+        "fingerprint": "cdd85ce72089d7833c40fd6dbd31bc8b",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2013",
+            "brand": "Mercedes-Benz",
+            "price_raw": "69999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_634.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_635.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_636.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_637.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/90/0010_90_638.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "CLS",
+                "Кузов": "W218",
+                "Двигатель": "M276.952",
+                "Год": "2013",
+                "Номер по производителю": "218",
+                "Производитель": "Mercedes-Benz",
+                "Размеры": "8.5Jx20 ET40 9.5Jx20 ET45 5x112"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Carlsson RS, 8.5Jx20 ET40 9.5Jx20 ET45 5x112, привезены из Японии",
+            "sales_notes": "Без сварки и трещин, есть притертости",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Оригинальные диски Carlsson RS для Mercedes-Benz CLS 2013. Размеры 8.5Jx20 ET40 9.5Jx20 ET45 5x112. Привезены из Японии. Без сварки и трещин. Есть притертости."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Контрактные диски Mercedes-Benz CLS 2013 W218. Размер 8.5Jx20 ET40 и 9.5Jx20 ET45. Оригинал Carlsson RS. Без сварки и трещин. Дефекты: притертости."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Диски Mercedes-Benz CLS 2013 (W218) Carlsson RS. Размеры: 8.5Jx20 ET40, 9.5Jx20 ET45, 5x112. Привезены из Японии. Состояние: без сварки и трещин, есть притертости."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Оригинальные диски Carlsson RS для Mercedes-Benz CLS 2013. Параметры: 8.5Jx20 ET40, 9.5Jx20 ET45, 5x112. Из Японии. Без сварки и трещин. Имеются притертости."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Диски Mercedes-Benz CLS 2013 W218. Оригинал Carlsson RS. Размеры: 8.5Jx20 ET40, 9.5Jx20 ET45, 5x112. Привезены из Японии. Без сварки и трещин. Есть притертости."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2013",
+                    "description": "Контрактные диски Mercedes-Benz CLS 2013. Оригинальные Carlsson RS. Размер 8.5Jx20 ET40 и 9.5Jx20 ET45. Из Японии. Без сварки и трещин. Дефекты: притертости."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] - [Размеры] [Производитель] [Состояние]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS (кузов W218, двс M276.952)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:56:01.329987"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4ab/": {
+        "fingerprint": "79a9de4c6f6c56678871d42c930b75cc",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz SL 2003",
+            "brand": "Mercedes-Benz",
+            "price_raw": "74999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_385.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_386.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_387.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_388.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_389.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Carlsson CR1/11, привезены из Японии, без сварки и трещин",
+            "sales_notes": "8.5Jx19 ET40 10Jx19 ET45 5x112 ЦО 66,6",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Оригинальные диски Carlsson CR1/11, привезены из Японии. Без сварки и трещин. Размеры: 8.5Jx19 ET40, 10Jx19 ET45, 5x112, ЦО 66,6"
+                },
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Контрактные диски с Mercedes-Benz SL 2003 (R230, M112.973). Состояние отличное, без дефектов. Параметры: 8.5Jx19 ET40, 10Jx19 ET45"
+                },
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Оригинальные диски Carlsson CR1/11, привезены из Японии. Без сварки и трещин. Размеры: 8.5Jx19 ET40, 10Jx19 ET45, 5x112, ЦО 66,6"
+                },
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Контрактные диски с Mercedes-Benz SL 2003 (R230, M112.973). Состояние отличное, без дефектов. Параметры: 8.5Jx19 ET40, 10Jx19 ET45"
+                },
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Оригинальные диски Carlsson CR1/11, привезены из Японии. Без сварки и трещин. Размеры: 8.5Jx19 ET40, 10Jx19 ET45, 5x112, ЦО 66,6"
+                },
+                {
+                    "title": "Диски Mercedes-Benz SL 2003",
+                    "description": "Контрактные диски с Mercedes-Benz SL 2003 (R230, M112.973). Состояние отличное, без дефектов. Параметры: 8.5Jx19 ET40, 10Jx19 ET45"
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [бренд] [модель] [год], привезены из Японии, без сварки и трещин, размеры [размеры]",
+            "collection_description": "Контрактная Диски Mercedes-Benz SL 2003",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:56:23.434043"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dec90/": {
+        "fingerprint": "05c7c73662d43a6ea4ff1c6d120f224e",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz GLK 2011",
+            "brand": "Mercedes-Benz",
+            "price_raw": "89999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_153.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_154.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_155.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_156.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_157.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "GLK",
+                "Кузов": "X204",
+                "Двигатель": "M272.948",
+                "Год": "2011",
+                "Номер по производителю": "A2474011500",
+                "Производитель": "Mercedes-Benz",
+                "Размер": "7.5J R19 ET53"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски без варок и трещин, минимальные потертости. 7.5J R19 ET53",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Mercedes-Benz GLK 2011, снятые с авто. Без варок и трещин, минимальные потертости. Размер 7.5J R19 ET53. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Контрактные диски Mercedes-Benz GLK 2011 X204. Состояние: без варок и трещин, минимальные потертости. Параметры: 7.5J R19 ET53. Номер A2474011500."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Диски от Mercedes-Benz GLK 2011 года. Кузов X204, двигатель M272.948. Размер 7.5J R19 ET53. Состояние хорошее, без дефектов."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Оригинальные диски Mercedes-Benz GLK 2011. Сняты с автомобиля. Размер 7.5J R19 ET53. Без варок и трещин. В наличии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Диски Mercedes-Benz GLK 2011 X204. Параметры: 7.5J R19 ET53. Состояние: без варок и трещин, минимальные потертости. Номер A2474011500."
+                },
+                {
+                    "title": "Диски Mercedes-Benz GLK 2011",
+                    "description": "Контрактные диски Mercedes-Benz GLK 2011. Размер 7.5J R19 ET53. Без варок и трещин. В наличии на складе в Москве."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Размер] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz GLK (кузов X204, двс M272.948)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:56:47.576181"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca27/": {
+        "fingerprint": "f072dabe0adbf2c1f287337b4571defe",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz E 2004",
+            "brand": "Mercedes-Benz",
+            "price_raw": "94999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_161.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AMG без сварки и трещин. Привезены из Японии. 8Jx18 ET30 9Jx18 ET39",
+            "sales_notes": "8Jx18 ET30 9Jx18 ET39, арт. A2114012602",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски AMG без сварки и трещин. Привезены из Японии. Размер: 8Jx18 ET30 9Jx18 ET39. Артикул A2114012602."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Контрактные диски AMG для Mercedes-Benz E 2004 (S211). Без дефектов. Размеры: 8Jx18 ET30 9Jx18 ET39."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски Mercedes-Benz E 2004. Состояние отличное, без сварки и трещин. Размер: 8Jx18 ET30 9Jx18 ET39."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Диски AMG для Mercedes-Benz E 2004 (S211). Привезены из Японии. Размеры: 8Jx18 ET30 9Jx18 ET39. Артикул A2114012602."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Оригинальные диски Mercedes-Benz E 2004. Без сварки и трещин. Размер: 8Jx18 ET30 9Jx18 ET39. Подходят для S211."
+                },
+                {
+                    "title": "Диски Mercedes-Benz E 2004",
+                    "description": "Контрактные диски AMG для Mercedes-Benz E 2004. Состояние отличное. Размеры: 8Jx18 ET30 9Jx18 ET39. Артикул A2114012602."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски AMG без сварки и трещин. Привезены из Японии. Размер: {width}Jx{diameter} ET{offset} {width2}Jx{diameter2} ET{offset2}. Артикул {part_number}.",
+            "collection_description": "Контрактная Диски Mercedes-Benz E 2004",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:57:00.994509"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0db240/": {
+        "fingerprint": "9c324b4888c3d436c9d3b894ea87e287",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz C 2001",
+            "brand": "Mercedes-Benz",
+            "price_raw": "94999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_525.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_526.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_527.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_528.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_529.jpg"
+            ],
+            "specs": {
+                "Марка": "Mercedes-Benz",
+                "Модель": "C",
+                "Кузов": "W203",
+                "Двигатель": "M112.961",
+                "Год": "2001",
+                "Номер по производителю": "A2034014102",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Mercedes-Benz C 2001 W203 M112.961 A2034014102 контрактная",
+            "sales_notes": "AMG оригинал, разноширокие 7.5J R18 ET30 8.5J R18 ET34",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Оригинальные диски AMG для Mercedes-Benz C 2001 W203. Разноширокие 7.5J R18 ET30 и 8.5J R18 ET34. Контрактная запчасть из Японии."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Комплект дисков Mercedes-Benz C 2001 W203 M112.961. Номер A2034014102. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Диски от Mercedes-Benz C 2001 года. Оригинал AMG. Размеры: перед 7.5J R18 ET30, зад 8.5J R18 ET34."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Контрактные диски Mercedes-Benz C 2001 W203. Сняты с автомобиля. Полный комплект. Цена 94 999 руб."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Оригинальные диски Mercedes-Benz C 2001. Артикул A2034014102. Подходят на кузов W203 с двигателем M112.961."
+                },
+                {
+                    "title": "Диски Mercedes-Benz C 2001",
+                    "description": "Диски AMG для Mercedes-Benz C 2001. Разноширокие R18. В наличии. Доставка по России."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz C (кузов W203, двс M112.961)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:57:25.867458"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf58/": {
+        "fingerprint": "d57693249596e07dd7bf4d289cfbef79",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz S 1994 W140",
+            "brand": "Mercedes-Benz",
+            "price_raw": "99999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_722.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски AMG. Без Варок и трещин 8.5J R18 ET47",
+            "sales_notes": "В наличии Москва. ID 151640",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Оригинальные диски AMG. Без Варок и трещин 8.5J R18 ET47. Сняты с Mercedes-Benz S 1994."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Контрактные диски AMG. Размер 8.5J R18 ET47. Подходят на Mercedes-Benz S W140."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Оригинальные диски AMG. Без дефектов. 8.5J R18 ET47. Номер A1404010102."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Диски AMG 8.5J R18 ET47. Состояние отличное. Сняты с Mercedes-Benz S 1994."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Оригинальные диски AMG. Без Варок и трещин. Размер 8.5J R18 ET47."
+                },
+                {
+                    "title": "Диски Mercedes-Benz S 1994 W140",
+                    "description": "Контрактные диски AMG. Подходят на Mercedes-Benz S W140. 8.5J R18 ET47."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски AMG. Без Варок и трещин 8.5J R18 ET47",
+            "collection_description": "Контрактная Диски Mercedes-Benz S 1994 W140",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:57:37.782903"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4aa/": {
+        "fingerprint": "5bb345d5d76a8b48286997fba777e557",
+        "raw_data": {
+            "h1_title": "Диски Mercedes-Benz CLS 2006",
+            "brand": "Mercedes-Benz",
+            "price_raw": "149999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_368.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_401.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_369.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_370.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_371.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Диски Work Emotion Kiwami TYPE EMT-Kiwami Оригинал Made In Japan",
+            "sales_notes": "8.5Jx19 ET25 10.5Jx19 ET22 5x112 ЦО 66,6",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Оригинальные диски Work Emotion Kiwami TYPE EMT-Kiwami Made In Japan. Параметры: 8.5Jx19 ET25 10.5Jx19 ET22 5x112 ЦО 66,6. Сняты с Mercedes-Benz CLS 2006 W219."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Контрактные диски с Mercedes-Benz CLS 2006. Редкие параметры 8.5Jx19 ET25 10.5Jx19 ET22 5x112 ЦО 66,6. Оригинал Work Emotion Kiwami."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Диски Work Emotion Kiwami TYPE EMT-Kiwami. Оригинал Made In Japan. Подходят на Mercedes-Benz CLS W219 2006 года."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Комплект дисков 8.5Jx19 ET25 и 10.5Jx19 ET22 5x112 ЦО 66,6. Оригинальные Work Emotion Kiwami. Сняты с авто."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Оригинальные диски Work Emotion Kiwami. Параметры: 8.5Jx19 ET25 10.5Jx19 ET22 5x112 ЦО 66,6. Сняты с Mercedes-Benz CLS 2006."
+                },
+                {
+                    "title": "Диски Mercedes-Benz CLS 2006",
+                    "description": "Диски Work Emotion Kiwami TYPE EMT-Kiwami. Оригинал. Made In Japan. Редкие параметры для Mercedes 8.5Jx19 ET25 10.5Jx19 ET22 5x112 ЦО 66,6."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] - [Бренд] [Модель дисков] [Параметры]",
+            "collection_description": "Контрактная Диски Mercedes-Benz CLS 2006",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-05T23:58:02.080917"
+    }
+}
